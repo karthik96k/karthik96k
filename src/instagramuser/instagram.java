@@ -1,3 +1,4 @@
+
 package instagramuser;
 
 public class instagram {
@@ -6,9 +7,13 @@ public class instagram {
 		System.out.println("email is karthi@gmail.com");
 	}
 	public void password(){
+	
 		System.out.println("password is 112233");
-		System.out.println("B");
+		System.out.println("A");
+        System.out.println("B");
+
 	}
+	
 
 
 }
