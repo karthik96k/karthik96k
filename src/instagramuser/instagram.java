@@ -10,6 +10,8 @@ public class instagram {
 	
 		System.out.println("password is 112233");
 		System.out.println("A");
+        System.out.println("B");
+
 	}
 	
 
